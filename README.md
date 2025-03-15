@@ -10,7 +10,7 @@ A real-time emotion detection system using **OpenCV** and **DeepFace**.
 1. Clone the repository:
    ```bash
    git clone https://github.com/mayarsaleh4/MoodDetection.git
-   cd MoodDetection
+   cd EmotionDetection
    ```
 2. Install dependencies:
    ```bash
