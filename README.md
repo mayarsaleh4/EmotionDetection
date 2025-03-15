@@ -20,7 +20,7 @@ A real-time emotion detection system using **OpenCV** and **DeepFace**.
 
 ### 🚀 Run the Project
 ```bash
-python main.py
+   python main.py
 ```
 
 ### 📌 Requirements
