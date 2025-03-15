@@ -28,8 +28,5 @@ A real-time emotion detection system using **OpenCV** and **DeepFace**.
 - OpenCV
 - DeepFace
 
-### 👀 Demo
-The program captures emotions in real-time using your webcam.
-
 ---
 
